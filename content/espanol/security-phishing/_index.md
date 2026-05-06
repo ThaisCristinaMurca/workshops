@@ -1,7 +1,7 @@
 ---
 title: "Seguridad: Phishing"
 description: "Guía introductoria sobre el concepto de phishing!"
-date: 2022-04-21T11:45:38-07:00
+date: 2026-04-25T00:00:00-07:00
 prereq: "Ninguno"
 download: ""
 draft: false
@@ -26,9 +26,7 @@ Sin embargo, pasaron 24 horas después, y no recibió ninguna confirmación de s
 
 Al leer el correo electrónico, **Alice** suspiró: "¡Bob, has sido `phished`!"
 
-## Tabla de contenido
-
 <details>
-<summary>Sections</summary>
+<summary>Tabla de contenido</summary>
 {{% children /%}}
 </details>

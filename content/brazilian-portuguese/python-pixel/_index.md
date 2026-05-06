@@ -10,4 +10,7 @@ difficulties: ["intermediate"]
 ---
 
 # Pixels em Python
+<details>
+<summary>Tabela de Conteúdos</summary>
 {{% children /%}}
+</details>

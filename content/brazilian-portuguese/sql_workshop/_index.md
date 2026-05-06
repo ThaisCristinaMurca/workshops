@@ -1,7 +1,7 @@
 ---
 title: "SQL: Salvando a Galáxia"
 description: "Aprendendo comandos SQL básicos"
-date: 2019-07-25T13:24:17-07:00
+date: 2026-04-25T00:00:00-07:00
 prereq: "Nenhum"
 draft: false
 icon: "fas fa-database"
@@ -26,6 +26,7 @@ Você foi aprovado como explorador espacial honorário pela Federação Galácti
 Por favor, não use o navegador Firefox para este workshop.
 {{% /notice %}}
 
-## Tabela de Conteúdos
-
+<details>
+<summary>Tabela de Conteúdos</summary>
 {{% children /%}}
+</details>

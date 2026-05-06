@@ -1,7 +1,7 @@
 ---
 title: "SQL: Salvando la Galaxia"
 description: "Aprendiendo comandos básicos de SQL"
-date: 2019-07-25T13:24:17-07:00
+date: 2026-04-25T00:00:00-07:00
 prereq: "Ninguno"
 draft: false
 icon: "fas fa-database"
@@ -26,6 +26,7 @@ Eres un aventurero espacial que viaja a través de la galaxia en tu cohete mient
 Por favor, no uses el navegador Firefox para este taller.
 {{% /notice%}}
 
-## Contenido
-
+<details>
+<summary>Contenido</summary>
 {{% children /%}}
+</details>

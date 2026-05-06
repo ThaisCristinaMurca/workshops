@@ -1,10 +1,11 @@
 ---
 title: "C: The Debugging Process"
 description: "An introduction to debugging programs"
-date: 2021-10-13T00:00:00Z
+date: 2026-04-25T00:00:00-07:00
 prereq: "C"
 icon: ""
 draft: false
+alwaysopen: false
 language: "c"
 topics: ["programming-basics"]
 difficulties: ["intermediate"]

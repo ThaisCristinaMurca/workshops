@@ -4,6 +4,7 @@ description: "다양한 현상을 어떻게 예측하는지 알아보기."
 prereq: "파이썬"
 icon: ""
 draft: false
+alwaysopen: false
 weight: 0
 language: "python"
 topics: ["ai"]

@@ -49,5 +49,7 @@ Assim como os humanos, as máquinas podem coletar informações, prever resultad
 
 ---
 
-## Índice
+<details>
+<summary>Índice</summary>
 {{% children /%}}
+</details>
